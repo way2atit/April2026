@@ -2,7 +2,8 @@ package com.selenium.PageObjectModelProject;
 
 public class LoginTest {
 	
-	
+	int i =10;
+	  String name = "Sayali";
 	
 	
 	public void m1()
@@ -10,8 +11,7 @@ public class LoginTest {
 		System.out.println("call m1");
 	}
 
-  int i =10;
-  String name = "Sayali";
+  
   
 
 }
