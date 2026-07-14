@@ -10,4 +10,8 @@ public class LoginTest {
 		System.out.println("call m1");
 	}
 
+  int i =10;
+  String name = "Sayali";
+  
+
 }
